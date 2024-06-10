@@ -1,0 +1,4 @@
+GenTasksBackend/__pycache__/
+.env
+node_modules
+req.txt
